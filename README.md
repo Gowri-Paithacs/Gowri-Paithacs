@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Gowri-Paithacs/Gowri-Paithacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi,I'm Gowri Sarvani
+##Interests
+-Intrested in learning new technologies
+-Intrested to code
+-Intrested in Java , Python , Web Technologies.
+##Career Goals
+-Become a Software Engineer
+-Want to improve Coding and Communication Skills
+-Want to learn new Tools and Technologies
+#Fun Fact
+I love watching horror and Thriller Movies or Series.
